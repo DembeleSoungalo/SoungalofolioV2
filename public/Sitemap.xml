@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://www.soungalofolio-v2.vercel.app/</loc>
-		<lastmod>2024-02-04</lastmod> <!-- Updated to a valid date -->
+		<lastmod>2025-02-03</lastmod> <!-- Updated to a valid date -->
 		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://www.soungalofolio-v2.vercel.app/home</loc>
-		<lastmod>2024-02-04</lastmod> <!-- Updated to a valid date -->
+		<lastmod>2025-02-03</lastmod> <!-- Updated to a valid date -->
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>http://www.soungalofolio-v2.vercel.app/about</loc>
-		<lastmod>2024-02-04</lastmod> <!-- Updated to a valid date -->
+		<lastmod>2025-02-03</lastmod> <!-- Updated to a valid date -->
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
